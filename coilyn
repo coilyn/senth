@@ -1,6 +1,15 @@
 [
   {
     "id": 145,
+    "name": "My House",
+    "imageUrl": "https://github.com/coilyn/senth2/blob/master/Flat7.jpg?raw=true",
+    "price": 0,
+    "priceCurrency": "Philippine PESO",
+    "lat": 16.579032,
+    "lng": 120.326203
+  },
+  {
+    "id": 145,
     "name": "Botanical Garden, San Fernando La Union",
     "imageUrl": "https://github.com/coilyn/senth2/blob/master/Flat1.jpg?raw=true",
     "price": 0,
