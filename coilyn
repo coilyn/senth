@@ -1,56 +1,56 @@
 [
   {
     "id": 145,
-    "name": "pagoda hill in San Fernando La Union",
+    "name": "Botanical Garden, San Fernando La Union",
     "imageUrl": "https://github.com/coilyn/senth2/blob/master/Flat1.jpg?raw=true",
     "price": 0,
     "priceCurrency": "Philippine PESO",
-    "lat": 16.614236,
-    "lng": 120.319124
+    "lat": 16.587330,
+    "lng": 120.365906
   },
   {
     "id": 148,
-    "name": "Trendy Apt in Buttes Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
-    "price": 200,
-    "priceCurrency": "EUR",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "name": "Kamay na Bato, Luna La Union",
+    "imageUrl": "https://github.com/coilyn/senth2/blob/master/Flat2.jpg?raw=true",
+    "price": 20,
+    "priceCurrency": "Philippine PESO",
+    "lat": 16.847237,
+    "lng": 120.351694
   },
   {
     "id": 201,
-    "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
-    "price": 150,
-    "priceCurrency": "EUR",
-    "lat": 48.885312,
-    "lng": 2.341225
+    "name": "Grape Farm, Bauang La Union!",
+    "imageUrl": "https://github.com/coilyn/senth2/blob/master/Flat3.jpg?raw=true",
+    "price": 0,
+    "priceCurrency": "Philippine PESO",
+    "lat": 16.461095,
+    "lng": 120.333895
   },
   {
     "id": 205,
-    "name": "Splendide terrasse vue imprenable",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
+    "name": "Tangadan Falls, San Gabriel La Union",
+    "imageUrl": "https://github.com/coilyn/senth2/blob/master/Flat4.jpg?raw=true",
     "price": 115,
-    "priceCurrency": "EUR",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "priceCurrency": "Philippine PESO",
+    "lat": 16.643576,
+    "lng": 120.448793
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
-    "price": 135,
-    "priceCurrency": "EUR",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "name": "Surfing Capital of the North, San Juan La Union",
+    "imageUrl": "https://github.com/coilyn/senth2/blob/master/Flat5.jpg?raw=true",
+    "price": 0,
+    "priceCurrency": "Philippine PESO",
+    "lat": 16.661871,
+    "lng": 120.324434
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
-    "price": 90,
-    "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "name": "Thunderbird Resort and Casino, Poro Point Sanfernando La Union",
+    "imageUrl": "https://github.com/coilyn/senth2/blob/master/Flat6.jpg?raw=true",
+    "price": 1500,
+    "priceCurrency": "Philippine PESO",
+    "lat": 16.612236,
+    "lng": 120.284761
   }
 ]
