@@ -106,15 +106,7 @@
     "priceCurrency": "Philippine PESO",
     "lat": 17.5705,
     "lng": 120.3873
-  },
-   {
-    "id": 222,
-    "name": "lake Sebu
-    "imageUrl": "https://github.com/coilyn/pictures/blob/master/lakesebu.jpg?raw=true",
-    "price": 1500,
-    "priceCurrency": "Philippine PESO",
-    "lat": 6.2447,
-    "lng": 124.5528
   }
+
 
 ]
