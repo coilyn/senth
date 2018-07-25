@@ -28,7 +28,7 @@
   },
   {
     "id": 201,
-    "name": "Puerto Princesa!",
+    "name": "Puerto Princesa",
     "imageUrl": "https://github.com/coilyn/pictures/blob/master/flat3.jpg?raw=true",
     "price": 0,
     "priceCurrency": "Philippine PESO",
@@ -79,6 +79,32 @@
     "priceCurrency": "Philippine PESO",
     "lat": 13.5019,
     "lng": 120.9541
+  },
+   {
+    "id": 213,
+    "name": "baguio",
+    "imageUrl": "https://github.com/coilyn/pictures/blob/master/baguio.jpg?raw=true",
+    "price": 1500,
+    "priceCurrency": "Philippine PESO",
+    "lat": 16.4023,
+    "lng": 120.5960
+  },
+   {
+    "id": 218,
+    "name": "HumaIsland",
+    "imageUrl": "https://github.com/coilyn/pictures/blob/master/humaIsland.jpg?raw=true",
+    "price": 1500,
+    "priceCurrency": "Philippine PESO",
+    "lat": 12.0537,
+    "lng": 119.9023
+  },
+   {
+    "id": 220,
+    "name": "Vigan",
+    "imageUrl": "https://github.com/coilyn/pictures/blob/master/vigan.jpg?raw=true",
+    "price": 1500,
+    "priceCurrency": "Philippine PESO",
+    "lat": 17.5705,
+    "lng": 120.3873
   }
-  ]
-   
+]
