@@ -3,7 +3,7 @@
     "id": 145,
     "name": "My House",
     "imageUrl": "https://github.com/coilyn/senth2/blob/master/Flat7.jpg?raw=true",
-    "price": 711.9 km,
+    "price": 711.9,
     "priceCurrency": "Km",
     "lat": 16.579032,
     "lng": 120.326203
@@ -106,14 +106,6 @@
     "priceCurrency": "Philippine PESO",
     "lat": 17.5705,
     "lng": 120.3873
-  },
-  {
-    "id": 221,
-    "name": "Lake Sebu",
-    "imageUrl": "https://github.com/coilyn/pictures/blob/master/lakesebu.jpg?raw=true",
-    "price": 1500,
-    "priceCurrency": "Philippine PESO",
-    "lat": 6.2447,
-    "lng": 124.5528
   }
+
 ]
