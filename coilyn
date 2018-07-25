@@ -53,5 +53,32 @@
     "lat": 11.3358,
     "lng": 124.1156
   },
+    {
+    "id": 211,
+    "name": "Chocolate Hills",
+    "imageUrl": "https://github.com/coilyn/pictures/blob/master/chocolatehills.jpg?raw=true",
+    "price": 1500,
+    "priceCurrency": "Philippine PESO",
+    "lat": 9.8297,
+    "lng": 124.1397
+  },
+  {
+    "id": 212,
+    "name": "Mayon volcano",
+    "imageUrl": "https://github.com/coilyn/pictures/blob/master/mayonvolcano.jpg?raw=true",
+    "price": 1500,
+    "priceCurrency": "Philippine PESO",
+    "lat": 13.2548,
+    "lng": 123.6861
+  },
+  {
+    "id": 213,
+    "name": "Puerto Galera",
+    "imageUrl": "https://github.com/coilyn/pictures/blob/master/puertogalera.jpg?raw=true",
+    "price": 1500,
+    "priceCurrency": "Philippine PESO",
+    "lat": 13.5019,
+    "lng": 120.9541
+  },
 
 ]
