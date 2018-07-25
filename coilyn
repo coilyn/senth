@@ -70,7 +70,8 @@
     "priceCurrency": "Philippine PESO",
     "lat": 13.2548,
     "lng": 123.6861
-  }{
+  }
+  {
     "id": 211,
     "name": "Puerto Galera",
     "imageUrl": "https://github.com/coilyn/pictures/blob/master/puertogalera.jpg?raw=true",
