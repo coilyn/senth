@@ -80,7 +80,7 @@
     "lat": 13.5019,
     "lng": 120.9541
   },
-  {
+   {
     "id": 213,
     "name": "baguio",
     "imageUrl": "https://github.com/coilyn/pictures/blob/master/baguio.jpg?raw=true",
@@ -107,6 +107,4 @@
     "lat": 17.5705,
     "lng": 120.3873
   }
-
-
 ]
